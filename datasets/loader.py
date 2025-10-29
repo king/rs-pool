@@ -1,3 +1,5 @@
+# Copyright (C) king.com Ltd 2025
+# License: Apache 2.0
 import os
 import torch
 import json

@@ -1,3 +1,8 @@
+# Copyright (C) king.com Ltd 2025
+# License: Apache 2.0
+# Adapted and inspired from the original GCN paper (Semi-Supervised
+# Classification with Graph
+
 """
 Main implementation of the GCN model.
 """

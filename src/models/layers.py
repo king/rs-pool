@@ -1,3 +1,7 @@
+# Copyright (C) king.com Ltd 2025
+# License: Apache 2.0
+# Inspired and Adapted and inspired from the original GCN and GIN papers.
+
 """
 Main implementation of the different layers that are used in the code base
 """

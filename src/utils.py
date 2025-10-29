@@ -1,3 +1,5 @@
+# Copyright (C) king.com Ltd 2025
+# License: Apache 2.0
 import numpy as np
 import random
 import torch

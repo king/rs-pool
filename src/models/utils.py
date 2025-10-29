@@ -1,3 +1,6 @@
+# Copyright (C) king.com Ltd 2025
+# License: Apache 2.0
+# Inspired and Adapted from the Torch Geometric functions
 """
     Utils training file and attack file
 """
