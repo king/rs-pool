@@ -66,7 +66,7 @@ python run_pgd_gin.py --name_dataset DD --pooling rs-pool
 
 ## Citing
 
-Upon using this repository for your work, or finding our proposed analysis useful for your research, please consider citing our paper [this paper](https://arxiv.org/abs/2412.03783):
+Upon using this repository for your work, or finding our proposed analysis useful for your research, please consider citing our paper [this paper](https://arxiv.org/abs/2510.22643):
 ```
 @inproceedings{
 ennadir2025enhancing,
